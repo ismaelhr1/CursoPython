@@ -8,5 +8,5 @@ N2=float(input("Indique el N2: "))
 S=N1+N2
 P=S/2
 
-print("Promedio: ", S)
+print("Promedio: ", P)
 
